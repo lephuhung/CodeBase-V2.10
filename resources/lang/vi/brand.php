@@ -11,16 +11,16 @@ return [
     |
     */
 
-    'brands' => 'Brands',
-    'manage_your_brands' => 'Manage your brands',
-    'all_your_brands' => 'All your brands',
-    'note' => 'Note',
-    'brand_name' => 'Brand name',
-    'short_description' => 'Short description',
-    'added_success' => 'Brand added successfully',
-    'updated_success' => 'Brand updated successfully',
-    'deleted_success' => 'Brand deleted successfully',
-    'add_brand' => 'Add brand',
-    'edit_brand' => 'Edit brand',
+    'brands' => 'Nhãn',
+    'manage_your_brands' => 'Quản lý nhãn ',
+    'all_your_brands' => 'Toàn bộ nhãn',
+    'note' => 'ghi chú',
+    'brand_name' => 'Tên nhãn',
+    'short_description' => 'Chú thích',
+    'added_success' => 'Thêm nhãn thành công',
+    'updated_success' =>'Cập nhật nhãn thành công',
+    'deleted_success' => 'Xóa nhãn thành công',
+    'add_brand' => 'Thêm nhãn',
+    'edit_brand' => 'Chỉnh sửa nhãn',
 
 ];
