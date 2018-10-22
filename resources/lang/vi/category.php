@@ -11,18 +11,18 @@ return [
     |
     */
 
-    'categories' => 'Categories',
-    'manage_your_categories' => 'Manage your categories',
-    'all_your_categories' => 'All your categories',
-    'category' => 'Category',
-    'category_name' => 'Category name',
-    'code' => 'Category Code',
-    'add_as_sub_category' => 'Add as sub-category',
-    'select_parent_category' => 'Select parent category',
-    'added_success' => 'Category added successfully',
-    'updated_success' => 'Category updated successfully',
-    'deleted_success' => 'Category deleted successfully',
-    'add_category' => 'Add Category',
-    'edit_category' => 'Edit Category',
+    'categories' => 'Các Mục',
+    'manage_your_categories' => 'Quản lý mục',
+    'all_your_categories' => 'Tất cả mục',
+    'category' => 'mục',
+    'category_name' => 'Tên mục',
+    'code' => 'Mã',
+    'add_as_sub_category' => 'Thêm mục nhỏ',
+    'select_parent_category' => 'Chọn mục hiện tại',
+    'added_success' => 'Thêm mục thành công',
+    'updated_success' => 'Cập nhật mục thành công',
+    'deleted_success' => 'Xóa mục thành công',
+    'add_category' => 'Thêm mục',
+    'edit_category' => 'Chỉnh sửa thông tin mục',
 
 ];
