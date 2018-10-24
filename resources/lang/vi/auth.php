@@ -14,6 +14,6 @@ return [
     */
 
     'failed' => 'Thông tin xác thực không đúng.',
-    'throttle' => 'Đăng nhập quá nhiều. Vui lòng chờ trong :giây giây.',
+    'throttle' => 'Đăng nhập quá nhiều. Vui lòng chờ trong :seconds giây.',
 
 ];

@@ -11,15 +11,15 @@ return [
     |
     */
 
-    'supplier' => 'Supplier',
+    'supplier' => 'Nhà cung cấp',
     'ref_no' => 'Reference No',
-    'business_location' => 'Business Location',
-    'purchases' => 'Purchases',
-    'add_payment' => 'Add payment',
-    'edit_payment' => 'Edit payment',
-    'view_payments' => 'View payments',
-    'amount_already_paid' => 'Amount already paid',
-    'payment_added_success' => 'Payment added successfully',
+    'business_location' => 'Địa chỉ',
+    'purchases' => 'Mua vào',
+    'add_payment' => 'Thêm thanh toán',
+    'edit_payment' => 'Chỉnh sửa thanh toán',
+    'view_payments' => 'Hiện thị thanh toán',
+    'amount_already_paid' => 'Số tiền sẵn sàng thanh toán',
+    'payment_added_success' => 'Thanh toán được thêm thành công',
     'payment_updated_success' => 'Payment updated successfully',
     'payment_deleted_success' => 'Payment deleted successfully',
     'view_payments' => 'View Payments',
