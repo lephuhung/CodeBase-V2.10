@@ -14,50 +14,36 @@ return [
     'exc_of_tax' => 'Exc. tax',
     'inc_of_tax' => 'Inc. tax',
     'profit_percent' => 'x Margin(%)',
-<<<<<<< HEAD
     'add_new_product' => 'Thêm sản phẩm mới',
     'add_product_for_labels' => 'Thêm sản phẩm để tạo mã vạch',
     'product_type' => 'Loại sản phẩm',
     'category' => 'Danh mục',
     'sub_category' => 'Danh mục con',
-=======
-    'add_new_product' => 'Thêm mới sản phẩm',
-    'add_product_for_labels' => 'Thêm products to generate Labels',
-    'product_type' => 'Loại sản phẩm',
-    'category' => 'Category',
-    'sub_category' => 'Sub category',
->>>>>>> 30521c2205342ed6b64fd64b547fcdb16ffca50d
     'unit' => 'Đơn vị',
     'brand' => 'Nhãn',
     'tax' => 'Thuế',
     'sku' => 'SKU',
-<<<<<<< HEAD
     'alert_quantity' => 'Cảnh báo số lượng',
     'product_name' => 'Tên sản phẩm',
     'auto_generate' => 'Tự dộng tạo',
-=======
     'alert_quantity' => 'Alert quantity',
     'product_name' => ' Sản phẩm Tên',
     'auto_generate' => 'Auto generate',
->>>>>>> 30521c2205342ed6b64fd64b547fcdb16ffca50d
     'manage_stock' => 'Manage Stock?',
     'enable_stock_help' => 'Enable stock management at product level',
     'barcode_type' => 'loại mã vạch',
     'applicable_tax' => 'Applicable Tax',
     'selling_price_tax_type' => 'Selling Price Tax Type',
-<<<<<<< HEAD
     'inclusive' => 'Bao gồm',
     'exclusive' => 'Độc quyền',
     'edit_product' => "Sửa sản phẩm",
     'default_purchase_price' => 'Giá mua mặc định',
     'default_selling_price' => 'Giá bán mặc định',
-=======
     'inclusive' => 'Inclusive',
     'exclusive' => 'Exclusive',
     'edit_product' => 'Chỉnh sửa sản phẩm',
     'default_purchase_price' => 'Default Purchase Price',
     'default_selling_price' => 'Default Selling Price',
->>>>>>> 30521c2205342ed6b64fd64b547fcdb16ffca50d
     'value' => 'Value',
     'variation_name' => 'Variation Name',
     'variation_values' => 'Variation Values',
@@ -70,7 +56,6 @@ return [
     'expiry_period' => 'Expiry Period',
     'expires_in' => 'Expires in',
     'not_applicable' => 'Not Applicable',
-<<<<<<< HEAD
     'months' => 'Tháng',
     'days' => 'Ngày',
     'mfg_date' => 'Hạn MFG ',
@@ -82,7 +67,6 @@ return [
     'file_to_import' => 'Chọn file để nhập',
     'file_imported_successfully' => 'Nhập thành công',
     'download_csv_file_template' => 'Thêm file csv thành công',
-=======
     'months' => 'Months',
     'days' => 'Days',
     'mfg_date' => ' Ngày MFG',
@@ -94,5 +78,4 @@ return [
     'file_to_import' => 'File nhập',
     'file_imported_successfully' => 'File đã nhập thành công',
     'download_csv_file_template' => 'Tải file .csv mẫu',
->>>>>>> 30521c2205342ed6b64fd64b547fcdb16ffca50d
  ];
