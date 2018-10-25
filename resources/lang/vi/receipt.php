@@ -11,18 +11,18 @@ return [
     |
     */
 
-    'product' => 'Product',
-    'qty' => 'Quantity',
-    'unit_price' => 'Unit Price',
-    'subtotal' => 'Subtotal',
-    'discount' => 'Discount',
-    'tax' => 'Tax',
-    'total' => 'Total',
-    'invoice_number' => 'Invoice No.',
-    'date' => 'Date',
-    'receipt_settings' => 'Receipt Settings',
-    'receipt_settings_mgs' => 'All receipt related settings for this location',
-    'print_receipt_on_invoice' => 'Auto print invoice after finalizing',
-    'receipt_printer_type' => 'Receipt Printer Type',
-    'receipt_settings_updated' => 'Receipt Setting updated succesfully'
+    'product' => 'Sản phẩm',
+    'qty' => 'Số lượng',
+    'unit_price' => 'Giá mỗi đơn vị',
+    'subtotal' => 'Tổng',
+    'discount' => 'Giảm giá',
+    'tax' => 'Thuế',
+    'total' => 'Tổng',
+    'invoice_number' => 'Số hóa đơn',
+    'date' => 'Ngày',
+    'receipt_settings' => 'Biên lại',
+    'receipt_settings_mgs' => 'Tất cả biên lai của điểm bán hàng',
+    'print_receipt_on_invoice' => 'Tự động in sau khi hoàn tất',
+    'receipt_printer_type' => 'Loại máy in biên lai',
+    'receipt_settings_updated' => 'Cài đặt biên lại cập nhật thành công'
 ];
