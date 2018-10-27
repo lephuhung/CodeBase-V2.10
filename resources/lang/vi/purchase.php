@@ -12,7 +12,7 @@ return [
     */
 
     'supplier' => 'Nhà cung cấp',
-    'ref_no' => 'Reference No',
+    'ref_no' => 'Số tương ứng',
     'business_location' => 'Địa chỉ',
     'purchases' => 'Mua vào',
     'add_payment' => 'Thêm thanh toán',

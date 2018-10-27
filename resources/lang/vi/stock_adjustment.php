@@ -11,20 +11,20 @@ return [
     |
     */
 
-    'stock_adjustment' => 'Stock Adjustment',
-    'stock_adjustments' => 'Stock Adjustments',
-    'list' => 'List Stock Adjustments',
-    'add' => 'Add Stock Adjustment',
-    'all_stock_adjustments' => 'All stock adjustments',
-    'search_product' => 'Search products for stock adjustment',
-    'adjustment_type' => 'Adjustment type',
-    'normal' => 'Normal',
-    'abnormal' => 'Abnormal',
-    'total_amount' => 'Total Amount',
-    'total_amount_recovered' => 'Total amount recovered',
-    'reason_for_stock_adjustment' => 'Reason',
-    'stock_adjustment_added_successfully' => 'Stock adjustment added successfully',
-    'search_products' => 'Search Products',
-    'delete_success' => 'Stock adjustment deleted successfully',
-    'view_details' => 'View stock adjustment details'
+    'stock_adjustment' => 'Chuyển hàng cho chi nhánh',
+    'stock_adjustments' => 'Chuyển hàng cho chi nhánh',
+    'list' => 'Danh sách chuyển hàng',
+    'add' => 'Thêm mới',
+    'all_stock_adjustments' => 'Tất cả lịch sử giao dịch',
+    'search_product' => 'Tìm kiếm sản phẩm',
+    'adjustment_type' => 'Loại chuyển hàng',
+    'normal' => 'Bình thường',
+    'abnormal' => 'Đặc biệt',
+    'total_amount' => 'Tổng số tiền',
+    'total_amount_recovered' => 'Tổng số tiền thu về',
+    'reason_for_stock_adjustment' => 'Lí do',
+    'stock_adjustment_added_successfully' => 'Thêm chuyển hàng thành công',
+    'search_products' => 'Tìm kiếm',
+    'delete_success' => 'Xóa chuyển hàng thành công',
+    'view_details' => 'Hiện thị chi tiết'
 ];
