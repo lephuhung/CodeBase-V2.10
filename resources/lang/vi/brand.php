@@ -14,7 +14,7 @@ return [
     'brands' => 'Nhãn hiệu',
     'manage_your_brands' => 'Quản lý nhãn hiệu ',
     'all_your_brands' => 'Toàn bộ nhãn hiệu',
-    'note' => 'ghi chú',
+    'note' => 'Ghi chú',
     'brand_name' => 'Tên nhãn hiệu',
     'short_description' => 'Chú thích',
     'added_success' => 'Thêm nhãn hiệu thành công',
