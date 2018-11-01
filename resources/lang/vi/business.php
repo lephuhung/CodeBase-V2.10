@@ -21,7 +21,7 @@ return [
     'city' => 'Thành phố',
     'zip_code' => 'Mã ZIP',
     'zip_code_placeholder' => 'Zip/Postal Mã',
-    'landmark' => 'Landmark',
+    'landmark' => 'Vị trí',
     'tax_1_name' => 'Tên thuế 01',
     'tax_1_no' => 'Số thué 01',
     'tax_2_name' => 'Tên Thuế 02',
