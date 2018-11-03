@@ -493,7 +493,7 @@ return [
     'purchase_return_added_success' => 'Đã trả tiền mua thành công',
     'list_purchase_return' => 'Danh sách mua hàng trả lại',
     'all_purchase_returns' => 'Tất cả lợi nhuận mua',
-    'parent_purchase' => 'Mua hàng của cha mẹ',
+    'parent_purchase' => 'Mua hàng của phụ huynh',
     'purchase_return_details' => 'Chi tiết trả lại hàng',
     'return_date' => 'Thanh toán',
     'parent_sale' => 'Bán hàng dành cho cha mẹ',

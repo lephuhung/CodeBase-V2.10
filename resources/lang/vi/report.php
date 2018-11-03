@@ -27,7 +27,7 @@ return [
     'customer' => 'Khách hàng',
     'supplier' => 'Nhà cung cấp',
     'total_due' => 'Nợ',
-    'contacts' => 'Thống kê khách hàng và nhà cung cấp',
+    'contacts' => 'Khách hàng và nhà cung cấp',
     'contact' => 'Liên hệ',
     'stock_report' => 'Thống kê kho hàng',
     'products' => 'Sản phẩm',
