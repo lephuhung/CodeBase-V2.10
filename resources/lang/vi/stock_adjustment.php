@@ -11,8 +11,8 @@ return [
     |
     */
 
-    'stock_adjustment' => 'Chuyển hàng cho chi nhánh',
-    'stock_adjustments' => 'Chuyển hàng cho chi nhánh',
+    'stock_adjustment' => 'Phân phối cho chi nhánh',
+    'stock_adjustments' => 'Phân phối cho chi nhánh',
     'list' => 'Danh sách chuyển hàng',
     'add' => 'Thêm mới',
     'all_stock_adjustments' => 'Tất cả lịch sử giao dịch',

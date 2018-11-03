@@ -22,7 +22,7 @@ return [
     'sales_item_addition_method' => 'Cách cộng thêm mặt hàng bán hàng',
     'add_item_in_new_row' => 'Thêm sản phẩm vào hàng mới',
     'increase_item_qty' => 'Tăng số lượng mặt hàng nếu nó đã tồn tại',
-    'stock_transfers' => 'Chuyển hàng giữa chi nhánh',
+    'stock_transfers' => 'Phân phối giữa chi nhánh',
     'all_stock_transfers' => 'Tất cả đơn hàng',
     'add_stock_transfer' => 'Thêm đơn hàng',
     'list_stock_transfers' => 'Danh sách đơn hàng',
@@ -321,7 +321,7 @@ return [
     'unit_sell_price' => 'Đơn giá Bán',
     'tiền tố' => 'Tiền tố',
     'purchase_order' => 'Đơn đặt hàng',
-    'stock_transfer' => 'Chuyển hàng giữa chi nhánh',
+    'stock_transfer' => 'Phân phối giữa chi nhánh',
    
     'purchase_payment' => 'Thanh toán mua',
     'sell_payment' => 'Bán thanh toán',

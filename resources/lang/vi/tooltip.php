@@ -11,105 +11,109 @@ return [
     |
     */
 
-    'product_stock_alert' => "Products with low stock.<br/><small class='text-muted'>Based on product alert quantity set in add product screen.<br> Purchase this products before stock ends.</small>",
+   
+'product_stock_alert' => "Sản phẩm có cổ phiếu thấp. <br/> <small class = 'text-muted'> Dựa trên số lượng cảnh báo sản phẩm được đặt trong màn hình sản phẩm bổ sung. <br> Mua sản phẩm này trước khi chứng khoán kết thúc. </ small> ",
 
-    'payment_dues' => "Pending payment for purchases. <br/><small class='text-muted'>Based on supplier's pay term. <br/> Showing payments to be paid in 7 days or less.</small>",
+'payment_dues' => "Thanh toán đang chờ xử lý cho giao dịch mua. <br/> <small class = 'text-muted'> Dựa trên thời hạn thanh toán của nhà cung cấp. <br/> Hiển thị thanh toán sẽ được thanh toán sau 7 ngày. </ small> ",
 
-    'input_tax' => 'Total tax collected for sales within the selected time period.',
+'input_tax' => 'Tổng số thuế được thu cho bán hàng trong khoảng thời gian đã chọn.',
 
-    'output_tax' => 'Total tax paid towards purchases for the selected time period.',
+'output_tax' => 'Tổng thuế được thanh toán cho các giao dịch mua trong khoảng thời gian đã chọn.',
 
-    'tax_overall' => 'Difference between total tax collected and total tax paid within the selected time period.',
+'tax_overall' => 'Sự khác biệt giữa tổng số thuế được thu và tổng số thuế đã thanh toán trong khoảng thời gian đã chọn.',
 
-    'purchase_due' => 'Total unpaid amount for purchases.',
+'purchase_due' => 'Tổng số tiền chưa thanh toán cho giao dịch mua.',
 
-    'sell_due' => 'Total amount to be received from sales',
+'sell_due' => 'Tổng số tiền nhận được từ bán hàng',
 
-    'over_all_sell_purchase' => '-ve value = Amount to pay <br>+ve Value = Amount to receive',
+'over_all_sell_purchase' => 'giá trị -ve = Số tiền thanh toán <br> + ve Giá trị = Số tiền nhận',
 
-    'no_of_products_for_trending_products' => 'Number of top trending products to be compared in the chart below.',
+'no_of_products_for_trending_products' => 'Số lượng sản phẩm thịnh hành hàng đầu được so sánh trong biểu đồ bên dưới.',
 
-    'top_trending_products' => "Top selling products of your shop. <br/><small class='text-muted'>Apply filters to know trending products for specific Category, Brand, Business Location etc.</small>",
+'top_trending_products' => "Sản phẩm bán chạy nhất trong cửa hàng của bạn. <br/> <small class = 'text-muted'> Áp dụng bộ lọc để biết các sản phẩm thịnh hành cho Danh mục, Thương hiệu, Vị trí doanh nghiệp cụ thể, v.v ... </ small>",
 
-    'sku' => "Unique product id or Stock Keeping Unit <br><br>Keep it blank to automatically generate sku.<br><small class='text-muted'>You can modify sku prefix in Business settings.</small>",
+'sku' => "Mã sản phẩm duy nhất hoặc Đơn vị lưu giữ cổ phiếu <br> <br> Hãy để trống để tự động tạo sku. <br> <small class = 'text-muted'> Bạn có thể sửa đổi tiền tố sku trong Cài đặt doanh nghiệp. < / small> ",
 
-    'enable_stock' => "Enable or disable stock management for a product. <br><br><small class='text-muted'>Stock Management should be disable mostly for services. Example: Hair-Cutting, Repairing, etc.</small>",
+'enable_stock' => "Bật hoặc tắt quản lý cổ phiếu cho một sản phẩm. <br> <br> <small class = 'text-muted'> Quản lý cổ phiếu nên được vô hiệu hóa chủ yếu cho các dịch vụ. Ví dụ: Cắt tóc, Sửa chữa, v.v. </ small> ",
 
-    'alert_quantity' => "Get alert when product stock reaches or goes below the specified quantity.<br><br><small class='text-muted'>Products with low stock will be displayed in dashboard - Product Stock Alert section.</small>",
+'alert_quantity' => "Nhận thông báo khi cổ phiếu sản phẩm đạt hoặc xuống dưới số lượng được chỉ định. <br> <br> <small class = 'text-muted'> Sản phẩm có cổ phiếu thấp sẽ được hiển thị trong bảng điều khiển - Phần Cảnh báo sản phẩm. </ small> ",
 
-    'product_type' => '<b>Single product</b>: Product with no variations.
-    <br><b>Variable product</b>: Product with variations such as size, color etc.',
+   
+'product_type' => '<b> Sản phẩm đơn lẻ </ b>: Sản phẩm không có biến thể.
+<br> <b> Sản phẩm biến đổi </ b>: Sản phẩm có các biến thể như kích thước, màu sắc vv ',
 
-    'profit_percent' => "Default profit margin for the product. <br><small class='text-muted'>(<i>You can manage default profit margin in Business Settings.</i>)</small>",
+'profit_percent' => "Biên lợi nhuận mặc định cho sản phẩm. <br> <small class = 'text-muted'> (<i> Bạn có thể quản lý lợi nhuận mặc định trong Cài đặt doanh nghiệp. </ i>) </ small>" ,
 
-    'pay_term' => "Payments to be paid for purchases within the given time period.<br/><small class='text-muted'>All upcoming or due payments will be displayed in dashboard - Payment Due section</small>",
+'pay_term' => "Thanh toán được thanh toán cho các giao dịch mua trong một khoảng thời gian nhất định. <br/> <small class = 'text-muted'> Tất cả thanh toán sắp tới hoặc đến hạn sẽ được hiển thị trong bảng điều khiển - Mục Thanh toán </ small> ",
 
-    'order_status' => 'Products in this purchase will be available for sale only if the <b>Order Status</b> is <b>Items Received</b>.',
+'order_status' => 'Các sản phẩm trong giao dịch mua này sẽ chỉ có sẵn để bán nếu <b> Trạng thái đơn hàng </ b> là <b> Các mặt hàng đã nhận </ b>.',
 
-    'purchase_location' => 'Business location where the purchased product will be available for sale.',
+'purchase_location' => 'Vị trí doanh nghiệp nơi sản phẩm đã mua sẽ có sẵn để bán.',
 
-    'sale_location' => 'Business location from where you want to sell',
+'sale_location' => 'Vị trí doanh nghiệp từ nơi bạn muốn bán',
 
-    'sale_discount' => "Set 'Default Sale Discount' for all sales in Business Settings. Click on the edit icon below to add/update discount.",
+'sale_discount' => 'Đặt "Giảm giá mặc định" cho tất cả doanh số bán hàng trong Cài đặt doanh nghiệp. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm/cập nhật giảm giá.',
 
-    'sale_tax' => "Set 'Default Sale Tax' for all sales in Business Settings. Click on the edit icon below to add/update Order Tax.",
+'sale_tax' => "Đặt 'Thuế bán hàng mặc định' cho tất cả doanh số bán hàng trong Cài đặt doanh nghiệp. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm / cập nhật Thuế đặt hàng.",
 
-    'default_profit_percent' => "Default profit margin of a product. <br><small class='text-muted'>Used to calculate selling price based on purchase price entered.<br/> You can modify this value for indivisual products while adding</small>",
+'default_profit_percent' => "Biên lợi nhuận mặc định của sản phẩm. <br> <small class = 'text-muted'> Được sử dụng để tính toán giá bán dựa trên giá mua đã nhập. <br/> Bạn có thể sửa đổi giá trị này cho các sản phẩm độc lập trong khi thêm </ small> ",
 
-    'fy_start_month' => 'Starting month of The Financial Year for your business',
+'fy_start_month' => 'Tháng bắt đầu của Năm tài chính cho doanh nghiệp của bạn',
 
-    'business_tax' => 'Registered tax number for your business.',
+'business_tax' => 'Số thuế đã đăng ký cho doanh nghiệp của bạn.',
 
-    'invoice_scheme' => "Invoice Scheme means invoice numbering format. Select the scheme to be used for this business location<br><small class='text-muted'><i>You can add new Invoice Scheme</b> in Invoice Settings</i></small>",
+'invoice_scheme' => "Lược đồ hóa đơn có nghĩa là định dạng đánh số hóa đơn. Chọn lược đồ được sử dụng cho vị trí doanh nghiệp này <small class = 'text-muted'> <i> Bạn có thể thêm lược đồ hóa đơn mới </ b> Cài đặt hóa đơn </ i> </ small> ",
 
-    'invoice_layout' => "Invoice Layout to be used for this business location<br><small class='text-muted'>(<i>You can add new <b>Invoice Layout</b> in <b>Invoice Settings<b></i>)</small>",
+'invoice_layout' => "Bố cục hóa đơn sẽ được sử dụng cho vị trí doanh nghiệp này <br> <small class = 'text-muted'> (<i> Bạn có thể thêm <b> Bố cục hóa đơn mới </ b> vào <b> Hóa đơn Cài đặt <b> </ i>) </ small> ",
 
-    'invoice_scheme_name' => 'Give a short meaningful name to the Invoice Scheme.',
+'invoice_scheme_name' => 'Đặt tên ngắn có ý nghĩa cho Đề án Hoá đơn.',
 
-    'invoice_scheme_prefix' => 'Prefix for an Invoice Scheme.<br>A Prefix can be a custom text or current year. Ex: #XXXX0001, #2018-0002',
+'invoice_scheme_prefix' => 'Tiền tố cho một sơ đồ hóa đơn. <br> Tiền tố có thể là văn bản tùy chỉnh hoặc năm hiện tại. Ví dụ: # XXXX0001, # 2018-0002 ',
 
-    'invoice_scheme_start_number' => "Start number for invoice numbering. <br><small class='text-muted'>You can make it 1 or any other number from which numbering will start.</small>",
+'invoice_scheme_start_number' => "Bắt đầu số để đánh số hóa đơn. <br> <small class = 'text-muted'> Bạn có thể đặt số 1 hoặc bất kỳ số nào khác để đánh số sẽ bắt đầu. </ small>",
 
-    'invoice_scheme_count' => 'Total number of invoices generated for the Invoice Scheme',
+'invoice_scheme_count' => 'Tổng số hóa đơn được tạo cho Giao thức Hoá đơn',
 
-    'invoice_scheme_total_digits' => 'Length of the Invoice Number excluding Invoice Prefix',
+'invoice_scheme_total_digits' => 'Độ dài của Số Hoá đơn không bao gồm Tiền tố Hoá đơn',
 
-    'tax_groups' => 'Group Tax Rates - defined above, to be used in combination in Purchase/Sell sections.',
+'tax_groups' => 'Thuế suất nhóm - được định nghĩa ở trên, được sử dụng kết hợp trong các phần Mua / Bán.',
 
-    'unit_allow_decimal' => "Decimals allows you to sell the related products in fractions.",
+'unit_allow_decimal' => "Số thập phân cho phép bạn bán các sản phẩm có liên quan theo phân số.",
 
-    'print_label' => 'Add products ->Choose informations to show in Labels -> Select Barcode Setting -> Preview Labels -> Print',
+'print_label' => 'Thêm sản phẩm -> Chọn thông tin để hiển thị trong Nhãn -> Chọn Thiết lập mã vạch -> Nhãn xem trước -> In',
 
-    'expense_for' => 'Choose the user for which expense is related to. <i>(Optional)</i><br/><small>Example: Salary of an employee.</small>',
-    
-    'all_location_permission' => 'If <b>All Locations</b> selected this role will have permission to access all business locations',
+'cost_for' => 'Chọn người dùng có liên quan đến chi phí nào. <i> (Tùy chọn) </ i> <br/> <small> Ví dụ: Mức lương của một nhân viên. </ small> ',
 
-    'dashboard_permission' => 'If unchecked only Welcome message will be displayed in Home.',
+'all_location_permission' => 'Nếu <b> Tất cả Vị trí </ b> chọn vai trò này sẽ có quyền truy cập tất cả các vị trí doanh nghiệp',
 
-    'access_locations_permission' => 'Choose all locations this role can access. All data for the selected location will only be displayed to the user.<br/><br/><small>For Example: You can use this to define <i>Store Manager / Cashier / Stock manager / Branch Manager, </i>of particular Location.</small>',
+'dashboard_permission' => 'Nếu không được chọn, thông điệp chào mừng sẽ được hiển thị trong Trang chủ.',
 
-    'print_receipt_on_invoice' => 'Enable or Disable auto-printing of invoice on finalizing',
+'access_locations_permission' => 'Chọn tất cả các vị trí mà vai trò này có thể truy cập. Tất cả dữ liệu cho vị trí đã chọn sẽ chỉ được hiển thị cho người dùng. <br/> <br/> <small> Ví dụ: Bạn có thể sử dụng điều này để xác định <i> Trình quản lý cửa hàng / Người quản lý / Người quản lý chứng khoán / Người quản lý chi nhánh, </ i> Vị trí cụ thể. </ small> ',
 
-    'receipt_printer_type' => "<i>Browser Based Printing</i>: Show print dialogue box in browser with preview of invoice <br/><br/> <i>Use Configured Receipt Printer</i>: Select a configured receipt/thermal printer for printing",
+'print_receipt_on_invoice' => 'Bật hoặc Tắt tự động in hóa đơn khi hoàn tất',
 
-    'adjustment_type' => '<i>Normal</i>: Adjustment for normal reasons like Leakage, Damage etc. <br/><br/> <i>Abnormal</i>: Adjustment for reasons like Fire, Accident etc.',
+'receipt_printer_type' => "<i> In dựa trên trình duyệt </ i>: Hiển thị hộp thoại in trong trình duyệt với bản xem trước hóa đơn <br/> <br/> <i> Sử dụng máy in nhận cấu hình </ i>: Chọn cấu hình nhận / máy in nhiệt để in ",
 
-    'total_amount_recovered' => 'Amount recovered from insurance or selling of scraps or others',
+'adjustment_type' => '<i> Bình thường </ i>: Điều chỉnh vì những lý do bình thường như Rò rỉ, Thiệt hại, vv <br/> <br/> <i> Bất thường </ i>: Điều chỉnh vì lý do như hỏa hoạn, tai nạn vv . ',
 
-    'express_checkout' => 'Mark complete paid & checkout',
-    'total_card_slips' => 'Total number of card payments used in this register',
-    'total_cheques' => 'Total number of cheques used in this register',
+'total_amount_recovered' => 'Số tiền thu hồi từ bảo hiểm hoặc bán phế liệu hoặc của người khác',
+
+   
+'express_checkout' => 'Đánh dấu hoàn thành thanh toán & thanh toán',
+'total_card_slips' => 'Tổng số thanh toán bằng thẻ được sử dụng trong sổ đăng ký này',
+'total_cheques' => 'Tổng số séc được sử dụng trong sổ đăng ký này',
 
     'capability_profile' => "Support for commands and code pages varies between printer vendors and models. If you're not sure, it's a good idea to use the 'simple' Capability Profile",
 
     'purchase_different_currency' => 'Select this option if you purchase in a different currency than your business currency',
 
-    'currency_exchange_factor' => "1 Purchase Currency = ? Base Currency <br> <small class='text-muted'>You can enable/disabled 'Purchase in other currency' from business settings.</small>",
+    'currency_exchange_factor' => "1 Mua ngoại tệ = ? Tiền tệ cơ bản <br> <small class='text-muted'>Bạn có thể bật / tắt 'Mua bằng đơn vị tiền tệ khác' từ cài đặt doanh nghiệp.</small>",
 
-    'accounting_method' => 'Accounting method',
+    'accounting_method' => 'Phương pháp kế toán',
 
-    'transaction_edit_days' => 'Number of days from Transaction Date till which a transaction can be edited.',
-    'stock_expiry_alert' => "List of stocks expiring in :days days <br> <small class='text-muted'>You can set the no. of days in Business Settings </small>",
-    'sub_sku' => "Sku is optional. <br><br><small>Keep it blank to automatically generate sku.<small>",
-    'shipping' => "Set shipping details and shipping charges. Click on the edit icon below to add/update shipping details and charges."
+    
+'transaction_edit_days' => 'Số ngày kể từ ngày giao dịch cho đến khi một giao dịch có thể được chỉnh sửa.',
+'stock_expiry_alert' => "Danh sách cổ phiếu hết hạn sau: ngày ngày <br> <small class = 'text-muted'> Bạn có thể đặt số ngày trong Cài đặt doanh nghiệp </ small>",
+'sub_sku' => "Sku là tùy chọn. <br> <br> <small> Giữ trống để tự động tạo sku. <small>",
+'shipping' => "Đặt chi tiết giao hàng và chi phí giao hàng. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm / cập nhật chi tiết giao hàng và các khoản phí."
 ];

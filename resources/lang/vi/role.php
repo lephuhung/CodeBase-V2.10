@@ -49,9 +49,9 @@ return [
     'sell.update' => 'Chỉnh sửa POS',
     'sell.delete' => 'Xóa POS',
 
-    'purchase_n_sell_report.view' => 'Hiện thị purchase & sell report',
+    'purchase_n_sell_report.view' => 'Hiện thị báo cáo mua và bán',
     'contacts_report.view' => 'Hiện thị báo cáo nhà cung cấp và khách hàng',
-    'stock_report.view' => 'Hiện thị stock report, stock adjustment report & stock expiry report',
+    'stock_report.view' => 'Hiện thị báo cáo kho, phân phối cho chi nhánh  & hàng hết hạn',
     'tax_report.view' => 'Hiện thị báo cáo thuế',
     'trending_product_report.view' => 'Hiện thị báo cáo sản phẩm bán chạy',
     'register_report.view' => 'Hiện thị báo cáo đăng kí tài khoản',
