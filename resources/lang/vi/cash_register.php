@@ -24,7 +24,7 @@ return [
     'card_payment' => 'Quẹt thẻ',
     'bank_transfer' => 'Chuyển khoản ngân hàng',
     'other_payments' => 'Thanh toán khác',
-    'total_sales' => 'Tổng giảm giá',
+    'total_sales' => 'Tổng đơn hàng bán ra',
     'total_cash' => 'Tổng tiền mặt',
     'current_register' => 'Máy tính hiện tại',
     'close_register' => 'Đóng máy tính tiền',

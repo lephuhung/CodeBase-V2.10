@@ -11,10 +11,10 @@ return [
     |
     */
 
-    'sale' => 'Bán ra',
-    'sells' => 'Bán ra',
-    'list_sale' => 'Danh sách giảm giá',
-    'add_sale' => 'Thêm giảm giá',
+    'sale' => 'Bán hàng',
+    'sells' => 'Bán hàng',
+    'list_sale' => 'Danh sách đơn hàng',
+    'add_sale' => 'Thêm đơn hàng',
     'pos_sale' => 'POS',
     'draft_added' => 'Đã thêm bản nháp thành công',
     'invoice_added' => 'Hóa đơn thêm thành công',
@@ -33,7 +33,7 @@ return [
     'qty' => '',
     'subtotal' => 'Subtotal',
     'recent_transactions' => 'Giao dịch vừa thực hiện',
-    'pos_sale_added' => 'giảm giá áp dụng thành công',
+    'pos_sale_added' => 'Đơn hàng thêm thành công',
     'price_inc_tax' => 'Giá thuế',
     'tax' => 'Thuế',
     'edit_discount' => 'Chỉnh sửa giảm giá',
@@ -60,7 +60,7 @@ return [
     'sell_note' => 'Ghi chú bán hàng',
     'staff_note' => 'Ghi chú nhân viên',
     'draft_updated' => 'Nháp cập nhật thành công',
-    'pos_sale_updated' => 'Giảm giá cập nhật thành công',
+    'pos_sale_updated' => 'Đơn hàng cập nhật thành công',
     'location' => 'Vị trí',
     'add_payment_row' => 'Thêm hàng thanh toán',
     'finalize_payment' => 'Thanh toán cuối cùng',

@@ -42,7 +42,7 @@ return [
     'inclusive' => 'Đã bao gồm',
     'exclusive' => 'Chưa bao gồm',
     'edit_product' => 'Chỉnh sửa sản phẩm',
-    'default_purchase_price' => 'Giá mua vào mặc định',
+    'default_purchase_price' => 'Giá nhập hàng mặc định',
     'default_selling_price' => 'Giá bán ra mặc định',
     'value' => 'Value',
     'variation_name' => 'Tên loại/cỡ',

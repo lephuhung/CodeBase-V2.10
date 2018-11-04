@@ -50,7 +50,7 @@ return [
     'tax_details' => 'Thuế chi tiết',
     'owner' => 'Chủ sở hữu',
     'owner_info' => 'Thông tin chủ sở hữu',
-    'sale' => 'Giảm giá',
+    'sale' =>'Đơn hàng',
     'sell_price_tax' => 'Giá bán',
     'product' => 'Sản phẩm',
     'sku_prefix' => 'SKU ',

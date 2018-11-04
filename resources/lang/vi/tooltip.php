@@ -52,7 +52,7 @@ return [
 
 'sale_location' => 'Vị trí doanh nghiệp từ nơi bạn muốn bán',
 
-'sale_discount' => 'Đặt "Giảm giá mặc định" cho tất cả doanh số bán hàng trong Cài đặt doanh nghiệp. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm/cập nhật giảm giá.',
+'sale_discount' => 'Đặt "Giảm giá mặc định" cho tất cả doanh số bán hàng trong Cài đặt doanh nghiệp. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm/cập nhật đươn hàng.',
 
 'sale_tax' => "Đặt 'Thuế bán hàng mặc định' cho tất cả doanh số bán hàng trong Cài đặt doanh nghiệp. Nhấp vào biểu tượng chỉnh sửa bên dưới để thêm / cập nhật Thuế đặt hàng.",
 
