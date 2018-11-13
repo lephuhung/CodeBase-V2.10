@@ -18,7 +18,7 @@ return [
     'add_product_for_labels' => 'Thêm sản phẩm để tạo mã vạch',
     'product_type' => 'Loại sản phẩm',
     'category' => 'Danh mục',
-    'sub_category' => 'Danh mục con',
+    'sub_category' => 'Danh mục phụ',
     'unit' => 'Đơn vị',
     'brand' => 'Nhãn',
     'tax' => 'Thuế',

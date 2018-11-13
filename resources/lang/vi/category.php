@@ -17,7 +17,7 @@ return [
     'category' => 'Danh mục',
     'category_name' => 'Tên danh mục',
     'code' => 'Mã',
-    'add_as_sub_category' => 'Thêm danh mục con',
+    'add_as_sub_category' => 'Thêm dưới dạng danh mục phụ của:',
     'select_parent_category' => 'Chọn danh mục hiện tại',
     'added_success' => 'Thêm danh mục thành công',
     'updated_success' => 'Cập nhật danh mục thành công',
